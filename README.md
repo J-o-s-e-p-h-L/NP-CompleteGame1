@@ -1,0 +1,1 @@
+Naive, greedy and optimal solvers for a NP-complete game, TheTaxmanCometh.
